@@ -2,7 +2,7 @@
 title: "wsl上のdockerコンテナ上で動作するnextjsアプリケーションにngrokを使う"
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["wsl", "docker", "nextjs", "ngrok"]
+topics: [wsl, docker, nextjs, ngrok]
 published: true
 ---
 
